@@ -20,11 +20,7 @@
   ],
   "permissions": [
     "tabs",
-    "cookies",
-    "http://10.3.1.77/",
-    "http://10.3.1.78/",
-    "http://218.62.103.166:9000/",
-    "http://218.62.103.166:9001/"
+    "cookies"
   ],
   "background": {
     "scripts": ["js/background.js"],
